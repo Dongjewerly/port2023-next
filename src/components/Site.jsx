@@ -26,7 +26,7 @@ const Site = () => {
                   <span>{site.info[2]}</span>
                 </div>
               </article>
-            )) }
+            ))}
         </div>
     </div>
 </section>
