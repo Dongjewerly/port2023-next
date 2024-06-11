@@ -10,7 +10,7 @@ import Site from '@/components/Site';
 import Skip from '@/components/Skip';
 import Port from '@/components/Port';
 
-import lenis from '@/utils/lenis';
+import lenis from '@/utils/smooth';
 import link from '@/utils/link';
 
 
